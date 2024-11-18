@@ -30,7 +30,7 @@ With ~3.7 years of experience in software development, I specialize in building 
 - **Databases**: MongoDB, MySQL, DynamoDB, Redis
 - **Other Tools**: Docker, Git/GitHub
 
-###
+<br />
 
 ## 🌟 Interests
 When I’m not coding, you’ll find me motorcycling, exploring new places, staying fit, playing chess, or catching a good movie.
