@@ -23,6 +23,8 @@ With ~3.7 years of experience in software development, I specialize in building 
 
 ## 🔧 Skills & Expertise
 
+<img align="right" src="https://github.com/user-attachments/assets/a24b233c-da89-4526-b5c1-dac0dfb11962" width="200px"/>
+
 - **Frontend**: HTML, CSS/SCSS, React.js, Redux, Next.js, Styled Components, Bootstrap
 - **Backend**: Node.js, Express.js, AWS Lambda, API Gateway, Cognito
 - **Databases**: MongoDB, MySQL, DynamoDB, Redis
